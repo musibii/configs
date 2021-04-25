@@ -2,6 +2,13 @@
  编辑器和常用工具的配置
 ## alfred
 
-## vim
+## editors
+
+### vim
+
+## instrument
+
+### pre-commit
+
 
 
