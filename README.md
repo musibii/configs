@@ -6,6 +6,9 @@
 
 ### vim
 
+### vscode
+#### 添加工作区配置
+
 ## instrument
 
 ### pre-commit

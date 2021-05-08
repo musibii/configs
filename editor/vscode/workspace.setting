@@ -1,0 +1,33 @@
+{
+	"folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../stable"
+        },
+        {
+            "path": "../projects"
+        }
+    ],
+	"settings": {
+        "notebook.kernelProviderAssociations": [
+        ],
+        "python.autoComplete.extraPaths": [
+            "/data/auto-deploys/latest/Ambot/",
+            "/root/miniconda3/envs/ambot-latest/lib/python2.7/ ",
+            "/root/miniconda3/envs/ambot-latest/lib/python2.7/site-packages/",
+            "/data/auto-deploys/latest/smaug-rot",
+            "/data/auto-deploys/latest/NTA-Light-deploy-steps/",
+            "/data/auto-deploys/latest/NPoC",
+            "/root/miniconda3/envs/pyport/lib/python2.7/",
+            "/root/miniconda3/envs/pyport/lib/python2.7/site-packages/"
+        ],
+        "python.pythonPath": "/root/miniconda3/envs/ambot-latest/bin/python",
+        "git.ignoreLimitWarning": true,
+        "files.associations": {
+            "matrix_kafka.h": "c",
+            "matrix.h": "c"
+        }
+    }
+}
